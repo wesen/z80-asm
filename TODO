@@ -1,0 +1,9 @@
+operationen, die nur ein spezielles register annehmen (zB A) sollten nil
+bei der ersten pass1 zurueckgeben, um einen fehler zu signalisieren
+
+operanden schreiben
+
+macro, um bei immediate adressierung gleich symbole einbetten zu koennen
+(um nicht den operand zweimal beschreiben zu muessen)
+
+datenstrukturen einbetten (data, nimmt eine liste)
